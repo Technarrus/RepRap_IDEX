@@ -1,0 +1,6 @@
+M563 P0 D-0 H-1
+M563 P1 D-1 H-2
+; Create a tool that prints 2 copies of the object using both carriages
+;инструмент, который печатает 2 копии объекта с использованием обеих кареток
+M563 P2 D0:1 H1:2 X0:3 F0:2    ; tool 2 uses both extruders and hot end heaters, maps X to both X and U, and uses both print cooling fans 
+G10 P2 X50 Y0 U-50 S0 R0       ; set tool offsets and temperatures for tool 2
