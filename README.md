@@ -4,7 +4,7 @@
 Репозиторий создан в дополнение к данному <a href="https://youtu.be/QxSq5uRTmJw/">ВИДЕО</a> на канале <a href="https://www.youtube.com/c/%D0%A3%D0%B3%D0%BE%D0%BB%D0%BE%D0%BA%D1%82%D0%B5%D1%85%D0%BD%D0%B0%D1%80%D1%8F">Уголок Технаря</a>
 
 ### ЖЕЛЕЗО
-* Конфиг собран для работы на плате управления <a href="https://alii.pub/6imgx4/">Octopus Pro</a> с контроллером STMF429
+* Конфиг собран для работы на плате управления <a href="https://alii.pub/6imgx4/">Octopus Pro</a> с контроллером STM32F429
 * Плату WiFi рекомендую от  <a href="https://t.me/elecronica3d">Elecronica 3d</a>
 
 ### ЗАМЕЧАНИЯ ПО НАСТРОЙКЕ ПРОШИВКИ
