@@ -5,6 +5,7 @@
 
 ### ЖЕЛЕЗО
 * Конфиг собран для работы на плате управления <a href="https://alii.pub/6imgx4/">Octopus Pro</a> с контроллером STMF429
+* Плату WiFi рекомендую от  <a href="https://t.me/elecronica3d">Elecronica 3d</a>
 
 ### ЗАМЕЧАНИЯ ПО НАСТРОЙКЕ ПРОШИВКИ
 * Правильная работа гарантирована с версией прошивки  3.4.0beta6_1 (2021-11-06), найти и скачать можно <a href="https://github.com/gloomyandy/RepRapFirmware/releases">ЗДЕСЬ</a>
